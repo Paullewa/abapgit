@@ -1,0 +1,25 @@
+REPORT ZDSCRIPT3_COPIE.
+CALL FUNCTION 'OPEN_FORM'.
+CALL FUNCTION 'START_FORM'
+ EXPORTING
+
+   FORM                   = 'ZDFORM3'.
+ CALL FUNCTION 'WRITE_FORM'
+  EXPORTING
+    ELEMENT                        = 'E1 '
+    WINDOW                         = 'MAIN'.
+
+CALL FUNCTION 'END_FORM'.
+
+CALL FUNCTION 'START_FORM'
+ EXPORTING
+
+   FORM                   = 'ZDFORM4'.
+ CALL FUNCTION 'WRITE_FORM'
+  EXPORTING
+    ELEMENT                        = 'E1 '
+    WINDOW                         = 'MAIN'.
+
+CALL FUNCTION 'END_FORM'.
+
+CALL FUNCTION 'CLOSE_FORM'.

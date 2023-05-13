@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_EX_BADI_SBPLI</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Interface zum BAdI: ZBADI_SBPFL</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>AGENCYNUM</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Nummer des Reisebüros</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ARRTIME</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Ankunftzeit</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CARRID</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Kurzbezeichnung der Fluggesellschaft</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CITYFROM</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Abflugstadt</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CITYTO</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Ankunftstadt</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CONNID</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Code der Einzelflugverbindung</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>COUNTRYFR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Länderschlüssel</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DEPTIME</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Abflugzeit</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DISTANCE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Entfernung</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FLDATE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Feld vom Typ DATS</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>IT_SBF</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Interface for travel object</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MANDT</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Mandant</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>PASSNAME</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Name des Passagiers</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SELECT_ENTRIES</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Select entries in  joined Table sbook-spli</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TYI_SBF</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Interface for travel object</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
