@@ -14,6 +14,12 @@
      <LANGUAGE>E</LANGUAGE>
      <TEXTPOOL>
       <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Travel software interface</ENTRY>
+       <LENGTH>50</LENGTH>
+      </item>
+      <item>
        <ID>R</ID>
        <ENTRY>Report for our Zcl_travel_flight</ENTRY>
        <LENGTH>32</LENGTH>
@@ -21,86 +27,74 @@
       <item>
        <ID>S</ID>
        <KEY>P_AGNUM</KEY>
-       <ENTRY>.</ENTRY>
-       <LENGTH>21</LENGTH>
-       <SPLIT>D</SPLIT>
+       <ENTRY>Travel Agency Number</ENTRY>
+       <LENGTH>28</LENGTH>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_ATIME</KEY>
-       <ENTRY>.</ENTRY>
+       <ENTRY>Arrival Time</ENTRY>
        <LENGTH>20</LENGTH>
-       <SPLIT>D</SPLIT>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_CARRID</KEY>
-       <ENTRY>.</ENTRY>
+       <ENTRY>Airline</ENTRY>
        <LENGTH>17</LENGTH>
-       <SPLIT>D</SPLIT>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_CFRO</KEY>
-       <ENTRY>.</ENTRY>
-       <LENGTH>17</LENGTH>
-       <SPLIT>D</SPLIT>
+       <ENTRY>Depart. city</ENTRY>
+       <LENGTH>20</LENGTH>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_CONID</KEY>
-       <ENTRY>.</ENTRY>
-       <LENGTH>21</LENGTH>
-       <SPLIT>D</SPLIT>
+       <ENTRY>Connection Number</ENTRY>
+       <LENGTH>25</LENGTH>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_CTO</KEY>
-       <ENTRY>.</ENTRY>
-       <LENGTH>15</LENGTH>
-       <SPLIT>D</SPLIT>
+       <ENTRY>Arrival city</ENTRY>
+       <LENGTH>20</LENGTH>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_CTRYFR</KEY>
-       <ENTRY>.</ENTRY>
-       <LENGTH>9</LENGTH>
-       <SPLIT>D</SPLIT>
+       <ENTRY>Country Key</ENTRY>
+       <LENGTH>19</LENGTH>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_DIST</KEY>
-       <ENTRY>.</ENTRY>
+       <ENTRY>Distance</ENTRY>
        <LENGTH>16</LENGTH>
-       <SPLIT>D</SPLIT>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_DTIME</KEY>
-       <ENTRY>.</ENTRY>
+       <ENTRY>Departure time</ENTRY>
        <LENGTH>22</LENGTH>
-       <SPLIT>D</SPLIT>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_FDATE</KEY>
-       <ENTRY>.</ENTRY>
-       <LENGTH>16</LENGTH>
-       <SPLIT>D</SPLIT>
+       <ENTRY>Flight Date</ENTRY>
+       <LENGTH>19</LENGTH>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_MANDT</KEY>
-       <ENTRY>.</ENTRY>
+       <ENTRY>Client</ENTRY>
        <LENGTH>17</LENGTH>
-       <SPLIT>D</SPLIT>
       </item>
       <item>
        <ID>S</ID>
        <KEY>P_PNAME</KEY>
-       <ENTRY>.</ENTRY>
-       <LENGTH>19</LENGTH>
-       <SPLIT>D</SPLIT>
+       <ENTRY>Passenger Name</ENTRY>
+       <LENGTH>22</LENGTH>
       </item>
      </TEXTPOOL>
     </item>

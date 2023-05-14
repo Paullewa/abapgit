@@ -4,7 +4,7 @@
   <asx:values>
    <VSEOINTERF>
     <CLSNAME>ZINTERFACE_TRAVEL</CLSNAME>
-    <LANGU>D</LANGU>
+    <LANGU>E</LANGU>
     <DESCRIPT>Interface for travel object</DESCRIPT>
     <EXPOSURE>2</EXPOSURE>
     <STATE>1</STATE>
