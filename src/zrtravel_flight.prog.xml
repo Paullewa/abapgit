@@ -14,9 +14,87 @@
      <LANGUAGE>E</LANGUAGE>
      <TEXTPOOL>
       <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Travel software interface</ENTRY>
+       <LENGTH>50</LENGTH>
+      </item>
+      <item>
        <ID>R</ID>
        <ENTRY>Report for our Zcl_travel_flight</ENTRY>
        <LENGTH>32</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_AGNUM</KEY>
+       <ENTRY>Travel Agency Number</ENTRY>
+       <LENGTH>28</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_ATIME</KEY>
+       <ENTRY>Arrival Time</ENTRY>
+       <LENGTH>20</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_CARRID</KEY>
+       <ENTRY>Airline</ENTRY>
+       <LENGTH>17</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_CFRO</KEY>
+       <ENTRY>Depart. city</ENTRY>
+       <LENGTH>20</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_CONID</KEY>
+       <ENTRY>Connection Number</ENTRY>
+       <LENGTH>25</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_CTO</KEY>
+       <ENTRY>Arrival city</ENTRY>
+       <LENGTH>20</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_CTRYFR</KEY>
+       <ENTRY>Country Key</ENTRY>
+       <LENGTH>19</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_DIST</KEY>
+       <ENTRY>Distance</ENTRY>
+       <LENGTH>16</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_DTIME</KEY>
+       <ENTRY>Departure time</ENTRY>
+       <LENGTH>22</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_FDATE</KEY>
+       <ENTRY>Flight Date</ENTRY>
+       <LENGTH>19</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_MANDT</KEY>
+       <ENTRY>Client</ENTRY>
+       <LENGTH>17</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_PNAME</KEY>
+       <ENTRY>Passenger Name</ENTRY>
+       <LENGTH>22</LENGTH>
       </item>
      </TEXTPOOL>
     </item>

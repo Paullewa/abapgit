@@ -4,12 +4,26 @@
   <asx:values>
    <VSEOINTERF>
     <CLSNAME>ZINTERFACE_TRAVEL</CLSNAME>
-    <LANGU>D</LANGU>
+    <LANGU>E</LANGU>
     <DESCRIPT>Interface for travel object</DESCRIPT>
     <EXPOSURE>2</EXPOSURE>
     <STATE>1</STATE>
     <UNICODE>X</UNICODE>
    </VSEOINTERF>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>SELECT_SINGLE_ENTRIES</CMPNAME>
+     <SCONAME>I_CONNID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Passenger connid</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SELECT_SINGLE_ENTRIES</CMPNAME>
+     <SCONAME>I_PASSNAME</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Name of the Passenger</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
   </asx:values>
  </asx:abap>
 </abapGit>

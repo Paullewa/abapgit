@@ -34,6 +34,3 @@ Write: / 'The number is'.
 endmethod.
 ENDCLASS.
 
-
-
-
